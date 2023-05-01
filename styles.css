@@ -132,12 +132,12 @@ body {
 
 @keyframes move-up {
   100% {
-    translate: 0 -10px;
+    translate: 0 -20px;
   }
 }
 
 @keyframes move-down {
   100% {
-    translate: 0 10px;
+    translate: 0 20px;
   }
 }
